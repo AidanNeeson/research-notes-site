@@ -1,6 +1,6 @@
 baseURL = 'https://charming-shortbread-8a6094.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Aidan's Research Notes'
 theme = 'anubis'
 
 [menu]
