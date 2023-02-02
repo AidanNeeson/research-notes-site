@@ -3,6 +3,30 @@ languageCode = 'en-us'
 title = "Aidan's Research Notes"
 theme = 'anubis'
 
+[params]
+author = "Dmitry Kolosov"
+description = "Anubis is a simple minimalist theme for Hugo blog engine."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+
+[[params.social]]
+id = "github"
+url = "https://github.com/AidanNeeson/"
+
 [menu]
 
 [[menu.main]]
@@ -26,3 +50,6 @@ weight = 3
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
