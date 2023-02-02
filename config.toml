@@ -3,8 +3,11 @@ languageCode = 'en-us'
 title = "Aidan's Research Notes"
 theme = 'anubis'
 
+[author]
+name = "Aidan Neeson"
+
 [params]
-author = "Dmitry Kolosov"
+author = "Aidan Neeson"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
