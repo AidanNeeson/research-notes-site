@@ -2,3 +2,27 @@ baseURL = 'https://charming-shortbread-8a6094.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anubis'
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
