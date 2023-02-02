@@ -17,7 +17,7 @@ Graphs are considered as one of the best modeling tools to be used when modeling
 
 ### Graphs
 
-Graphs are simply just a way to visualize mathematical objects and they made up of two parts mainly:
+Graphs are simply just a way to visualize mathematical objects and they are made up of two parts mainly:
 
 1. Vertices
 2. Edges
