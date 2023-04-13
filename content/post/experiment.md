@@ -10,4 +10,4 @@ I initally created the means to model Young Tableaux using the Python programmin
 
 The results that I obtained from this experiment included average numbers of standard young tableau found per trial, as well as the total numbers of standard young tableau found. The total number of standards that were found was 413 after creating 5 million young tableau. As a note, there are 288 standard young tableau of shape (5,4,1). The average number of standard young tableau generated per trial was 8.3. about 8 per every 100,000 generated is really bad, as 99,992 computations are completly wasted. Below is a chart that helps to vizualise these results.
 
-![Prototype Experiment Chart](/static/fa-icons/prototype_experiment.png)
+![Prototype Experiment Chart](../../resources/_gen/images/prototype_experiment.png)
